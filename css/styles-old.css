@@ -194,12 +194,6 @@
   margin-bottom: 8px;
 }
 
-.principles-text {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
 .principles-headings {
   font-weight: 500;
   font-size: 20px;
@@ -207,6 +201,12 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
+}
+
+.principles-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .team-section {
@@ -437,9 +437,6 @@
 .footer-icons:hover,
 .footer-icons:focus {
   background-color: #31d0aa;
-}
-
-.icons-team {
 }
 
 .footer-subscribe {
@@ -681,9 +678,6 @@
 
 .modal-input-form {
   margin-bottom: 8px;
-}
-
-.modal-textarea {
 }
 
 .modal-checkbox {
